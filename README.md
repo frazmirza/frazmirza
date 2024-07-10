@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fraz Ahmad!</h1>
-<h3 align="center">A passionate Frontend and Backend developer from United Kingdom</h3>
+<h3 align="center">I have 6 years of experience and I am a versatile software developer
+specializing in efficient web applications and APIs, with expertise in both
+backend and frontend development. I excel in creating user-friendly
+interfaces and delivering high-quality solutions, demonstrated through my
+work with databases and continuous integration. Dedicated to innovation, I
+strive to contribute valuable insights to any development team.</h3>
 
 - 🔭 I’m currently working on [Site Postal](https://site.sa/en/products/site_postal)
 
