@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm frazmirza</h1>
+<h1 align="center">Hi 👋, I'm Fraz Ahmad!</h1>
 <h3 align="center">A passionate Frontend and Backend developer from United Kingdom</h3>
 
 - 🔭 I’m currently working on [Site Postal](https://site.sa/en/products/site_postal)
