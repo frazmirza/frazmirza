@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fraz Ahmad!</h1>
-<h3 align="center">I have 6 years of experience and I am a versatile software developer
-specializing in efficient web applications and APIs, with expertise in both
-backend and frontend development. I excel in creating user-friendly
-interfaces and delivering high-quality solutions, demonstrated through my
-work with databases and continuous integration. Dedicated to innovation, I
-strive to contribute valuable insights to any development team.</h3>
+<h3 align="center">Experienced software developer with 6 years in designing and optimizing web applications and APIs. Led the creation of a high traffic e-commerce platform that enhanced user engagement by 40% and increased revenue by 30%. Conceptualized in Python, Django, FastAPI, Celery, RabbitMQ, PostgreSQL, Docker, Jenkins, JavaScript, and jQuery. Oversaw a team of 5 developers to implement continuous integration practices, cutting deployment times by 50%. Pursuing to advancing technical skills and applying insights to improve project outcomes and operational efficiency.</h3>
 
 - 🔭 I’m currently working on [Site Postal](https://site.sa/en/products/site_postal)
 
