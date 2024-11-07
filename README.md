@@ -3,12 +3,6 @@
 
 - 🔭 I’m currently working on [Site Postal](https://site.sa/en/products/site_postal)
 
-- 🌱 I’m currently learning **Fast API**
-
-- 👯 I’m looking to collaborate on **..**
-
-- 🤝 I’m looking for help with **..**
-
 - 💬 Ask me about **Python, Django, JavaScript, Devops**
 
 - 📫 How to reach me **frazmirza58@gmail.com**
