@@ -1,20 +1,114 @@
-<h1 align="center">Hi 👋, I'm Fraz Ahmad!</h1>
-<h3 align="center">Experienced software developer with 6 years in designing and optimizing web applications and APIs. Led the creation of a high traffic e-commerce platform that enhanced user engagement by 40% and increased revenue by 30%. Conceptualized in Python, Django, FastAPI, Celery, RabbitMQ, PostgreSQL, Docker, Jenkins, JavaScript, and jQuery. Oversaw a team of 5 developers to implement continuous integration practices, cutting deployment times by 50%. Pursuing to advancing technical skills and applying insights to improve project outcomes and operational efficiency.</h3>
+<h1 align="center">Hi, I'm Fraz Ahmad 👋</h1>
+<h3 align="center">Senior Python Developer · Full-Stack · Cloud-Native · AWS · Leeds, UK</h3>
 
-- 🔭 I’m currently working on [Site Postal](https://site.sa/en/products/site_postal)
-
-- 💬 Ask me about **Python, Django, JavaScript, Devops**
-
-- 📫 How to reach me **frazmirza58@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/172SUinXNKWJ3K3VPwXe3ECIyHMuRZjvK/view](https://drive.google.com/file/d/172SUinXNKWJ3K3VPwXe3ECIyHMuRZjvK/view)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fraz-ahmad-584188157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fraz-ahmad-584188157/" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:frazmirza58@gmail.com"><img src="https://img.shields.io/badge/Email-frazmirza58@gmail.com-blue?style=flat-square&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/fa808"><img src="https://img.shields.io/badge/LinkedIn-fa808-0077B5?style=flat-square&logo=linkedin" /></a>
+  <img src="https://img.shields.io/badge/Location-Leeds%2C%20UK-green?style=flat-square&logo=googlemaps" />
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-orange?style=flat-square" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frazmirza&show_icons=true&locale=en&layout=compact" alt="frazmirza" /></p>
+## 🧑‍💻 About Me
+
+I'm a **Senior Python Developer** with 7+ years of experience building scalable, production-grade backend systems, cloud-native applications, and full-stack web platforms.
+
+- 🔭 Currently at **Aire Global** — building ML/LLM-powered automation pipelines and distributed content processing systems
+- 🌍 Based in **Leeds, UK** — open to hybrid and on-site opportunities
+- 🤖 Passionate about **AI/ML integrations**, clean architecture, and developer tooling
+- 🧪 Strong advocate for **TDD**, code reviews, and engineering best practices
+- 🤝 Enjoy mentoring engineers and contributing to collaborative, growth-minded teams
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### Databases & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+---
+
+## 💼 Experience Highlights
+
+### 🏢 Aire Global — Senior Python Developer *(Nov 2024 – Present)*
+- Built a **self-learning ML/LLM classification pipeline** achieving **>90% accuracy**, reducing manual tagging by ~70%
+- Designed a **distributed content automation platform** using FastAPI, Celery, and Docker on AWS
+- Engineered automated text extraction (PDF, Word, TXT) with language detection and confidence scoring
+- Implemented **LDAP-secured multi-environment deployments** with full CI/CD via GitHub Actions
+
+### 🏢 Saudi Information Technology (SITE) — Senior Full Stack Developer *(Jul 2022 – Apr 2024)*
+- Led delivery of a large-scale **government correspondence platform** serving thousands of users
+- Architected **event-driven microservices** with RabbitMQ & Redis, improving peak-load performance by **30%**
+- Built OCR automation pipeline reducing manual entry by **50%** — saving **$75,000/year**
+- Authored **50+ Pytest test suites**, cutting critical post-release bugs by **40%**
+
+### 🏢 AppsGenii Technologies — Senior Python Backend Developer *(Dec 2020 – Jun 2022)*
+- Engineered backend systems for a platform serving **74 million users** at VEON Pakistan
+- Implemented **GraphQL API** layer reducing latency by **40%**; WebSocket integration boosting retention by **15%**
+- Deployed CI/CD on AWS achieving **99.9% uptime**
+- Designed scalable MySQL schemas improving query performance by **20%**
+
+---
+
+## 🎓 Education
+
+**BSc Computer Science** — Riphah International University *(2014 – 2018)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fa808&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fa808&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🌟 What I'm Working On
+
+- 🤖 Exploring **LLM integrations** and AI-powered automation pipelines
+- 🏗️ Deepening expertise in **cloud-native architecture** patterns on AWS
+- 📚 Contributing to open-source Python tooling
+
+---
+
+## 📬 Get In Touch
+
+I'm always open to interesting conversations, collaboration, or new opportunities.
+
+- 📧 **Email:** [frazmirza58@gmail.com](mailto:frazmirza58@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/fa808](https://www.linkedin.com/in/fa808)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fa808&label=Profile+Views&color=0e75b6&style=flat-square" />
+</p>
